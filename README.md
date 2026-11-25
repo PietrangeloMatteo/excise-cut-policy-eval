@@ -23,8 +23,8 @@ ROOT/
 ├── output/
 │   ├── figures_en/        figures used in the paper and slides (English labels)
 │   └── tables/            estimates (.csv) and LaTeX tables (.tex)
-├── paper/                 LaTeX source of the paper (main.tex) and bibliography
-└── presentation/          Beamer slides (slides.tex) and compiled PDF
+├── paper/           paper (PDF)
+└── presentation/    slides (PDF)
 ```
 
 Created by the code but not included in the repository: `output/figures/` (working figures with Italian labels), the `.dta` versions of the tables, `logs/` and `sim/` (simulated data and results from `98_simulation_test.do`).

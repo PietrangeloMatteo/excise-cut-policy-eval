@@ -1,0 +1,5 @@
+fuel,country,n_clusters,n_units,n_units_noregion
+petrol,Italy,111,16879,0
+petrol,France,94,3654,0
+diesel,Italy,111,16816,0
+diesel,France,94,8699,0

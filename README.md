@@ -137,9 +137,6 @@ To check reproducibility from scratch: copy the project, move `output/tables` to
 - Heterogeneity by brand and local competition.
 - The end of the Italian cut in December 2022 – January 2023, to test for asymmetric pass-through.
 
-## Note on AI assistance
-The Stata code and large parts of the paper and slides were written with Claude (Anthropic). I defined the research question, data sources and design choices, and ran, checked and interpreted the results.
-
 ## Author
 
 Matteo Pietrangelo
